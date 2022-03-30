@@ -1,4 +1,4 @@
-# pynse
+# NseScrapper
 
 Library to extract publicly available real-time and historical data from NSE website.
 

@@ -205,9 +205,3 @@ pynse stores data to .pynse folder in user home directry. Clear data If this fol
 nse.clear_data()
 ```
 
-## License
-
-© 2021 StreamAlpha
-
-This repository is licensed under MIT license.
-See LICENSE for details.
